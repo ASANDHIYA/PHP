@@ -18,10 +18,9 @@
             Email id:<input type="email" name="emailid"><br><br>
             Phone number:<input type="tel" name="phonenumber"><br><br>
             Address:<textarea rows=4 cols=50></textarea><br><br>
-
-
-
-     </Form>
+            Submit Button:<button type="submit">Submit Data</button>
+            Reset button:<button type="reset">Reset data</button>
+            </form>
 </body>   
          
 </html>
